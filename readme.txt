@@ -6,3 +6,4 @@ Create a new branch is quick and simple.
 new branch without ff.
 i'm working on some stuff.
 add some new feature.
+change something look what happened.
